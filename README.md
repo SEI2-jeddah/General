@@ -25,10 +25,10 @@ Welcome to Software Engineering Immersive. This repository contains information 
 The following is given as a guideline only and may be adjusted by the instructor based upon the pace of the class.
 | Unit | Title |
 | --- | --- |  
-| Unit 1 | --- |  
-| Unit 2 | --- |  
-| Unit 3 | --- | 
-| Unit 4 | --- |   
+| Unit 1 | Front-End Development  |  
+| Unit 2 | Full Stack Development |  
+| Unit 3 | Frontend Frameworks | 
+| Unit 4 | APIs and FullStack Development |   
 
 
 General Assembly's Software Engineering Immersive course  is split into 4 units.
@@ -40,8 +40,8 @@ Homework submission is very important to the completion of this program. [Click 
 
 | Class | Title | Lab | HW |
 | --- | --- | --- | :---: | 
-| Lesson 0 | [Installfest](https://github.com/SEI2-jeddah/lesson-w01d01-cli) | - | - | |
-| Lesson 1 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) | [Lab 1](https://github.com/FEWD-Jeddah/week-01-Lab-01)| | |
+| Lesson 0 | [Installfest](https://github.com/SEI2-jeddah/installfest) | - | - | |
+| Lesson 1 | [CLI ](curriculum/01-intro-html-css/readme.md) | [Lab 1](https://github.com/FEWD-Jeddah/week-01-Lab-01)| | |
 | Lesson 2 | [More HTML & CSS ](curriculum/02-more-html-css/readme.md) ||  | |
 | Lesson 3 |  ||  | |
 | Lesson 4 |  ||  | |
@@ -84,3 +84,10 @@ Homework submission is very important to the completion of this program. [Click 
 |16    | [Israa Shuri](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |17    | [Doaa Alhajjaji](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |18    | [Abdulmajed Dhelaimi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|19    | [Ibtissam Alharbi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|20    | [Mohammed Salah](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|21    | [Nada Omar](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|22    | [Abdullah Alsharif](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|23    | [Hisham](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|24    | [Yazeed](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+
