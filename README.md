@@ -23,12 +23,13 @@ Welcome to Software Engineering Immersive. This repository contains information 
 
 ## Course Outline
 The following is given as a guideline only and may be adjusted by the instructor based upon the pace of the class.
-| Unit | Title |
-| --- | --- |  
-| Unit 1 | Front-End Development  |  
-| Unit 2 | Full Stack Development |  
-| Unit 3 | Frontend Frameworks | 
-| Unit 4 | APIs and FullStack Development |   
+
+| Unit | Title ||
+| --- | --- |  ---|
+| Unit 1 | Front-End Development  |  |
+| Unit 2 | Full Stack Development |  |
+| Unit 3 | Frontend Frameworks | |
+| Unit 4 | APIs and FullStack Development | |   
 
 
 General Assembly's Software Engineering Immersive course  is split into 4 units.
