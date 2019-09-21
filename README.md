@@ -34,8 +34,10 @@ The following is given as a guideline only and may be adjusted by the instructor
 
 General Assembly's Software Engineering Immersive course  is split into 4 units.
 
-## How to Submit Homework.
-Homework submission is very important to the completion of this program. [Click Here](homework/readme.md) 
+## Homeworks.
+Homework submission is very important to the completion of this program. 
+
+[How to Submit Homework](homework_submission/README.md) 
 
 ## Lesson Breakdown
 
