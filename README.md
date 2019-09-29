@@ -27,8 +27,8 @@ The following is given as a guideline only and may be adjusted by the instructor
 | Unit | Title ||
 | --- | --- |  ---|
 | Unit 1 | Front-End Development  |  |
-| Unit 2 | Full Stack Development |  |
-| Unit 3 | Frontend Frameworks | |
+| Unit 2 | Frontend Frameworks |  |
+| Unit 3 |  Backend Development | |
 | Unit 4 | APIs and FullStack Development | |   
 
 
@@ -44,8 +44,8 @@ Homework submission is very important to the completion of this program.
 | Class | Title | Lab | HW |
 | --- | --- | --- | :---: | 
 | Lesson 0 | [Installfest](https://github.com/SEI2-jeddah/installfest) | - | - | |
-| Lesson 1 | [CLI ](curriculum/01-intro-html-css/readme.md) | [Lab 1](https://github.com/FEWD-Jeddah/week-01-Lab-01)| | |
-| Lesson 2 | [More HTML & CSS ](curriculum/02-more-html-css/readme.md) ||  | |
+| Lesson 1 | [CLI & Git  ](https://github.com/SEI2-jeddah/w01d01) | [Lab 1](https://github.com/FEWD-Jeddah/week-01-Lab-01)| | |
+| Lesson 2 | [Introduction to JS ](https://github.com/SEI2-jeddah/w01d02) ||  | |
 | Lesson 3 |  ||  | |
 | Lesson 4 |  ||  | |
 | Lesson 5 |  ||  | |
