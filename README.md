@@ -91,7 +91,7 @@ Homework submission is very important to the completion of this program.
 |20    | [Mohammed Salah](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |21    | [Nada Omar](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |22    | [Abdullah Alsharif](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|23    | [Hisham](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|24    | [Yazeed](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|23    | [Hisham Bin Seddeq](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|24    | [Yazeed Mousa AlJuhani](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |25    | [Wejdan Alghamdi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 
