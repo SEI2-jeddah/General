@@ -99,6 +99,6 @@ Homework submission is very important to the completion of this program.
 |28    | [Wejdan Alghamdi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |29    | [Wejdan Alghamdi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |30    | [Wejdan Alghamdi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|31    | [Wejdan Alghamdi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|32    | [Wejdan Alghamdi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|31    | [Midhat](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|32    | [Doaa Adel Al-Alawi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 
