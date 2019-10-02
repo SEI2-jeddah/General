@@ -47,7 +47,7 @@ Homework submission is very important to the completion of this program.
 | Lesson 1 | [CLI & Git  ](https://github.com/SEI2-jeddah/w01d01) | [Lab 1](https://github.com/FEWD-Jeddah/week-01-Lab-01)| | |
 | Lesson 2 | [Introduction to JS ](https://github.com/SEI2-jeddah/w01d02) || [JS Intro HW](https://github.com/SEI2-jeddah/hw-week1-day2-javascript) | |
 | Lesson 3 | [Function & IIFE ](https://github.com/SEI2-jeddah/w01d03) ||  | |
-| Lesson 4 |  ||  | |
+| Lesson 4 | [Arrays & Loops](https://github.com/SEI2-jeddah/w01d04) ||  | |
 | Lesson 5 |  ||  | |
 | Lesson 6 |  ||  | |
 | Lesson 7 |  ||  | |
