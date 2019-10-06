@@ -48,9 +48,9 @@ Homework submission is very important to the completion of this program.
 | Lesson 2 | [Introduction to JS ](https://github.com/SEI2-jeddah/w01d02) |[Lab 2](https://github.com/SEI2-jeddah/w01d02-finallab)| [JS Intro HW](https://github.com/SEI2-jeddah/hw-week1-day2-javascript) | |
 | Lesson 3 | [Function & IIFE ](https://github.com/SEI2-jeddah/w01d03) |[Lab 3](https://github.com/SEI2-jeddah/w01d03/blob/master/Lab/BankAccount.md)| [JS Function HW](https://github.com/SEI2-jeddah/hw-week1-day3-js-functions) | |
 | Lesson 4 | [Arrays & Loops](https://github.com/SEI2-jeddah/w01d04) ||  | |
-| Lesson 5 |  ||  | |
-| Lesson 6 |  ||  | |
-| Lesson 7 |  ||  | |
+| Lesson 5 | [Objects literals](https://github.com/SEI2-jeddah/w01d05) ||  | |
+| Lesson 6 | [HTML & CSS](https://github.com/SEI2-jeddah/w02d01)||  | |
+| Lesson 7 | [Flexbox & Grid](https://github.com/SEI2-jeddah/w02d02) ||  | |
 | Lesson 8 |  ||  | |
 | Lesson 9 |  ||  | |
 | Lesson 10 |  || | |
