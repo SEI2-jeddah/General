@@ -20,6 +20,11 @@ Welcome to Software Engineering Immersive. This repository contains information 
   - [ahmad.yaseen@generalassemb.ly](mailto:ahmad.yaseen@generalassemb.ly)
   - Weekday Office Hours: 6pm - 9pm (Offline) / 
   - Saturday 2pm - 4pm (Online/Offline)
+  
+- **Atheer** (Facilitator)
+  - [atheer.m.070@gmail.com](mailto:atheer.m.070@gmail.com)
+  - Weekday Office Hours: 6pm - 9pm (Offline) /
+  - Saturday 2pm - 4pm (Online/Offline)
 
 ## Course Outline
 The following is given as a guideline only and may be adjusted by the instructor based upon the pace of the class.
@@ -47,9 +52,9 @@ Homework submission is very important to the completion of this program.
 | Lesson 1 | [CLI & Git  ](https://github.com/SEI2-jeddah/w01d01) | [Lab 1](https://github.com/FEWD-Jeddah/week-01-Lab-01)| | |
 | Lesson 2 | [Introduction to JS ](https://github.com/SEI2-jeddah/w01d02) |[Lab 2](https://github.com/SEI2-jeddah/w01d02-finallab)| [JS Intro HW](https://github.com/SEI2-jeddah/hw-week1-day2-javascript) | |
 | Lesson 3 | [Function & IIFE ](https://github.com/SEI2-jeddah/w01d03) |[Lab 3](https://github.com/SEI2-jeddah/w01d03/blob/master/Lab/BankAccount.md)| [JS Function HW](https://github.com/SEI2-jeddah/hw-week1-day3-js-functions) | |
-| Lesson 4 | [Arrays & Loops](https://github.com/SEI2-jeddah/w01d04) ||  | |
-| Lesson 5 | [Objects literals](https://github.com/SEI2-jeddah/w01d05) ||  | |
-| Lesson 6 | [HTML & CSS](https://github.com/SEI2-jeddah/w02d01)||  | |
+| Lesson 4 | [Arrays & Loops](https://github.com/SEI2-jeddah/w01d04) || [Arrays HW](https://github.com/SEI2-jeddah/hw-week1-day4-js-array) | |
+| Lesson 5 | [Objects literals](https://github.com/SEI2-jeddah/w01d05) || [MTA HW](https://github.com/SEI2-jeddah/hw-week1-day5-MTA) | |
+| Lesson 6 | [HTML & CSS](https://github.com/SEI2-jeddah/w02d01)|| [HTML-CSS HW](https://github.com/SEI2-jeddah/hw-week2-day1-CSS-HTML) | |
 | Lesson 7 | [Flexbox & Grid](https://github.com/SEI2-jeddah/w02d02) ||  | |
 | Lesson 8 |  ||  | |
 | Lesson 9 |  ||  | |
