@@ -88,9 +88,9 @@ Homework submission is very important to the completion of this program.
 |12    | [Ahlam F](https://github.com/) | [Puzzle](https://ahlamf.github.io/SEI-PROJECT-01/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |13    | [Sara Alharbi](https://github.com/) | [Word Match](https://saraa96.github.io/word_match_game/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |14    | [Hamed Alsoubhi](https://github.com/) | [Guess Drawing](https://bosheca.github.io/GuessDrawing/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|15    | [Aisah Mutip](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|16    | [Israa Shuri](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|17    | [Doaa Alhajjaji](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|15    | [Aisha AlMotairi](https://github.com/aishamu) | [TTT](https://aishamu.github.io/TecTacToe) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|16    | [Israa Shuri](https://github.com/tsubaki92) | [Nightmare](https://tsubaki92.github.io/Nightmare/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|17    | [Doaa Alhajjaji](https://github.com/doaaxv) | [Nonogram Puzzle](https://doaaxv.github.io/nonogram-project/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |18    | [Abdulmajed Dhelaimi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |19    | [Ibtissam Alharbi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |20    | [Mohammed Salah](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
@@ -105,5 +105,5 @@ Homework submission is very important to the completion of this program.
 |29    | [Wejdan Alghamdi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |30    | [Wejdan Alghamdi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |31    | [Midhat](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|32    | [Doaa Adel Al-Alawi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|32    | [Doaa Adel Al-Alawi](https://github.com/doaaAlalawi) | [Dots and Box](https://doaaalalawi.github.io/dots-and-box-project-1/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 
