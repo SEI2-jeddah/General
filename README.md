@@ -102,8 +102,8 @@ Homework submission is very important to the completion of this program.
 |26    | [Abeer Ahamd](https://github.com/) | [](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |27    | [Wejdan Alghamdi](https://github.com/was7gh) | [TTT 4x4](https://was7gh.github.io/game-sei/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |28    | [Shahad Bagarish](https://github.com/shahadbagarish) | [Sudoku](https://shahadbagarish.github.io/Sudoku-Game/#) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|29    | [Wejdan Alghamdi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|30    | [Wejdan Alghamdi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|31    | [Midhat](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|29    | [Amal Alnajjar](https://github.com/amal-nj) | [TTT](https://amal-nj.github.io/TicTacToe/#) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|30    | [Abdulgadir Dghustani](https://github.com/dghistani) | [TTT](https://dghistani.github.io/project1/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|31    | [Nouf Almazrou](https://github.com/noufalmazrou) | [TTT](https://noufalmazrou.github.io/game/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |32    | [Doaa Adel Al-Alawi](https://github.com/doaaAlalawi) | [Dots and Box](https://doaaalalawi.github.io/dots-and-box-project-1/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 
