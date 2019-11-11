@@ -113,12 +113,12 @@ Homework submission is very important to the completion of this program.
 
 | No. |Group Name| Student One |Student Two| Student Three | Student Four | Student Five | Project Repo |
 | --- | ---| --- | --- | -- | -- | -- | -- |
-1 | |Sara | Suhaib | Doaa Al-Alawi | Abdulla | | |
-2 | |Amal | Mohammad Al-Faisal | Majd | Abdulgadir | | |
+1 | Webit |Sara | Suhaib | Doaa Al-Alawi | Abdulla | | |
+2 | The TaCod |Amal | Mohammad Al-Faisal | Majd | Abdulgadir | | |
 3 | Nameless Kings |Mohammad Salah | Aisha | Abdulmajid |Ashjan| | | 
 4 |Ibn Battuta |Shahad | Tareq |  Diala | Nujud | | |
 5 | On Hiatus |Doa Al-Hajjaji |  Fahad | Nada | | | |
 6 | Viral | Hisham  | Wejdan| Midhat | Abeer | Israa | |
-7 | | Raghad  | Anas| Ibtisam |  |  | |
+7 | Server Monks| Raghad  | Anas| Ibtisam |  |  | |
 8 |Team Unicorn | Yazeed  | Hamed| Ahlam | Nouf | Ali | |
 
