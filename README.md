@@ -116,9 +116,9 @@ Homework submission is very important to the completion of this program.
 1 | |Sara | Suhaib | Doaa Al-Alawi | Abdulla | | |
 2 | |Amal | Mohammad Al-Faisal | Majd | Abdulgadir | | |
 3 | Nameless Kings |Mohammad Salah | Aisha | Abdulmajid |Ashjan| | | 
-4 | |Shahad | Tareq |  Diala | Nujud | | |
-5 | |Doa Al-Hajjaji |  Fahad | Nada | | | |
-6 | | Hisham  | Wejdan| Midhat | Abeer | Israa | |
+4 |Ibn Battuta |Shahad | Tareq |  Diala | Nujud | | |
+5 | On Hiatus |Doa Al-Hajjaji |  Fahad | Nada | | | |
+6 | Viral | Hisham  | Wejdan| Midhat | Abeer | Israa | |
 7 | | Raghad  | Anas| Ibtisam |  |  | |
-8 | | Yazeed  | Hamed| Ahlam | Nouf | Ali | |
+8 |Team Unicorn | Yazeed  | Hamed| Ahlam | Nouf | Ali | |
 
