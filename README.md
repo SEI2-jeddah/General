@@ -120,5 +120,5 @@ Homework submission is very important to the completion of this program.
 5 | On Hiatus |Doa Al-Hajjaji |  Fahad | Nada | | | |
 6 | Viral | Hisham  | Wejdan| Midhat | Abeer | Israa | |
 7 | Server Monks| Raghad  | Anas| Ibtisam | Mohammad Al-Faisal  |  | |
-8 |Team Unicorn | Yazeed  | Hamed|  | Nouf | Ali | |
+8 |Team Unicorn | Yazeed  | Hamed| Nouf | Ali | |
 
