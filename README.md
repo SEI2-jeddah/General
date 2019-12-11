@@ -111,14 +111,14 @@ Homework submission is very important to the completion of this program.
 
 #### Group Projects 3 
 
-| No. |Group Name| Student One |Student Two| Student Three | Student Four | Student Five | Project Repo |
+| No. |Group Name| Student One |Student Two| Student Three | Student Four | Student Five | Project |
 | --- | ---| --- | --- | -- | -- | -- | -- |
-1 | Webit |Sara | Suhaib | Doaa Al-Alawi | Abdulla | | |
-2 | The TaCod |Amal | Ahlam | Majd | Abdulgadir | | |
-3 | Nameless Kings |Mohammad Salah | Aisha | Abdulmajid |Ashjan| | | 
-4 |Ibn Battuta |Shahad | Tareq |  Diala | Nujud | | |
-5 | On Hiatus |Doa Al-Hajjaji |  Fahad | Nada | | | |
-6 | Viral | Hisham  | Wejdan| Midhat | Abeer | Israa | |
-7 | Server Monks| Raghad  | Anas| Ibtisam | Mohammad Al-Faisal  |  | |
-8 |Team Unicorn | Yazeed  | Hamed| Nouf | Ali | |
+1 | Webit |Sara | Suhaib | Doaa Al-Alawi | Abdulla | |[Jeddah Diving](https://jeddahdiving.herokuapp.com/) |
+2 | The Pro MAMA |Amal | Ahlam | Majd | Abdulgadir | |[Cournich Guide](https://github.com/SEIxUX) |
+3 | Nameless Kings |Mohammad Salah | Aisha | Abdulmajid |Ashjan| |[PhaseUS](https://phase-us.herokuapp.com/) | 
+4 |Ibn Battuta |Shahad | Tareq |  Diala | Nujud | |[Jeddah Sculpture Hub](https://jeddah-sculpture.herokuapp.com/) |
+5 | On Bay |Doa Al-Hajjaji |  Fahad | Nada | | |[Shalihat](https://project3-shalihat.herokuapp.com/) |
+6 | Viral | Hisham  | Wejdan| Midhat | Abeer | Israa |[Jeddah Malls](https://jeddahmallsguide.herokuapp.com/) |
+7 | Server Monks| Raghad  | Anas| Ibtisam | Mohammad Al-Faisal  |  |[Surprise!!](https://designhub-p3-sei.herokuapp.com/) |
+8 |Unicorns :unicorn: | Yazeed  | Hamed| Nouf | Ali |[Coffeevent](https://github.com/Yazeed2/coffeevent) |
 
