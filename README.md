@@ -120,5 +120,5 @@ Homework submission is very important to the completion of this program.
 5 | On Bay |Doa Al-Hajjaji |  Fahad | Nada | | |[Shalihat](https://project3-shalihat.herokuapp.com/) |
 6 | Viral | Hisham  | Wejdan| Midhat | Abeer | Israa |[Jeddah Malls](https://jeddahmallsguide.herokuapp.com/) |
 7 | Server Monks| Raghad  | Anas| Ibtisam | Mohammad Al-Faisal  |  |[Surprise!!](https://designhub-p3-sei.herokuapp.com/) |
-8 |Unicorns :unicorn: | Yazeed  | Hamed| Nouf | Ali |[Coffeevent](https://github.com/Yazeed2/coffeevent) |
-
+8 |Unicorns :unicorn: | Yazeed  | Hamed| Nouf | Ali | |[Coffeevent](https://github.com/Yazeed2/coffeevent)
+|
