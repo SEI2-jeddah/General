@@ -98,6 +98,10 @@ Homework submission is very important to the completion of this program.
 
 ---
 
+- [Warmups]()
+- [Labs]()
+- [Homeworks]()
+
 #### Students
 
 | No. | Student                                              | First Project                                                                | Second Project                                                            | Third Project                                                   | Final Project                       |
