@@ -100,7 +100,7 @@ Homework submission is very important to the completion of this program.
 
 - [Warmups]()
 - [Labs]()
-- [Homeworks]()
+- [Homeworks](https://github.com/SEI2-jeddah/General/blob/master/homeworks.md)
 
 #### Students
 
